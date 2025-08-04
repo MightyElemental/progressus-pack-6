@@ -12,17 +12,17 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Progressus Pack 6",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "",
   "files": [
     {
-      "projectID": 570073,
-      "fileID": 5973188,
+      "projectID": 410811,
+      "fileID": 6179042,
       "required": true
     },
     {
-      "projectID": 410811,
-      "fileID": 6179042,
+      "projectID": 570073,
+      "fileID": 5973188,
       "required": true
     },
     {
@@ -91,13 +91,13 @@
       "required": true
     },
     {
-      "projectID": 71738,
-      "fileID": 6098525,
+      "projectID": 941096,
+      "fileID": 5545923,
       "required": true
     },
     {
-      "projectID": 941096,
-      "fileID": 5545923,
+      "projectID": 71738,
+      "fileID": 6098525,
       "required": true
     },
     {
@@ -136,6 +136,11 @@
       "required": true
     },
     {
+      "projectID": 247007,
+      "fileID": 6602359,
+      "required": true
+    },
+    {
       "projectID": 455982,
       "fileID": 6613430,
       "required": true
@@ -143,11 +148,6 @@
     {
       "projectID": 1157608,
       "fileID": 6616730,
-      "required": true
-    },
-    {
-      "projectID": 247007,
-      "fileID": 6602359,
       "required": true
     },
     {
@@ -271,13 +271,13 @@
       "required": true
     },
     {
-      "projectID": 574300,
-      "fileID": 5978711,
+      "projectID": 892005,
+      "fileID": 6786438,
       "required": true
     },
     {
-      "projectID": 892005,
-      "fileID": 6786438,
+      "projectID": 574300,
+      "fileID": 5978711,
       "required": true
     },
     {
@@ -718,6 +718,11 @@
     {
       "projectID": 626676,
       "fileID": 6260254,
+      "required": true
+    },
+    {
+      "projectID": 386134,
+      "fileID": 6752899,
       "required": true
     },
     {
