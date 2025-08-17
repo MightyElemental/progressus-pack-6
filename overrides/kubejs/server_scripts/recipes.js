@@ -10,4 +10,6 @@ ServerEvents.recipes(event => {
     ]
   )
 
+  event.smelting('bigreactors:graphite_ingot', '#c:dusts/graphite')
+
 })

@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Progressus Pack 6",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "",
   "files": [
     {
@@ -32,12 +32,12 @@
     },
     {
       "projectID": 268560,
-      "fileID": 6486993,
+      "fileID": 6895130,
       "required": true
     },
     {
       "projectID": 245506,
-      "fileID": 6876189,
+      "fileID": 6896217,
       "required": true
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "projectID": 377897,
-      "fileID": 6800518,
+      "fileID": 6885428,
       "required": true
     },
     {
@@ -81,13 +81,13 @@
       "required": true
     },
     {
-      "projectID": 298744,
-      "fileID": 6871431,
+      "projectID": 422301,
+      "fileID": 6896610,
       "required": true
     },
     {
-      "projectID": 422301,
-      "fileID": 6881751,
+      "projectID": 298744,
+      "fileID": 6887055,
       "required": true
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "projectID": 295910,
-      "fileID": 6666628,
+      "fileID": 6888607,
       "required": true
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "projectID": 247007,
-      "fileID": 6602359,
+      "fileID": 6888589,
       "required": true
     },
     {
@@ -206,13 +206,13 @@
       "required": true
     },
     {
-      "projectID": 282001,
-      "fileID": 5714512,
+      "projectID": 430957,
+      "fileID": 5530236,
       "required": true
     },
     {
-      "projectID": 430957,
-      "fileID": 5530236,
+      "projectID": 282001,
+      "fileID": 5714512,
       "required": true
     },
     {
@@ -256,6 +256,11 @@
       "required": true
     },
     {
+      "projectID": 899487,
+      "fileID": 6210181,
+      "required": true
+    },
+    {
       "projectID": 385587,
       "fileID": 6515579,
       "required": true
@@ -286,6 +291,11 @@
       "required": true
     },
     {
+      "projectID": 551894,
+      "fileID": 6306575,
+      "required": true
+    },
+    {
       "projectID": 383129,
       "fileID": 6811960,
       "required": true
@@ -297,7 +307,7 @@
     },
     {
       "projectID": 268566,
-      "fileID": 6486996,
+      "fileID": 6895133,
       "required": true
     },
     {
@@ -357,7 +367,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 6859222,
+      "fileID": 6896602,
       "required": true
     },
     {
@@ -442,7 +452,12 @@
     },
     {
       "projectID": 1219748,
-      "fileID": 6301121,
+      "fileID": 6891762,
+      "required": true
+    },
+    {
+      "projectID": 326652,
+      "fileID": 6078150,
       "required": true
     },
     {
@@ -486,6 +501,11 @@
       "required": true
     },
     {
+      "projectID": 429235,
+      "fileID": 5850121,
+      "required": true
+    },
+    {
       "projectID": 627557,
       "fileID": 6515577,
       "required": true
@@ -517,7 +537,7 @@
     },
     {
       "projectID": 350006,
-      "fileID": 6838989,
+      "fileID": 6888786,
       "required": true
     },
     {
@@ -567,7 +587,12 @@
     },
     {
       "projectID": 223794,
-      "fileID": 6852708,
+      "fileID": 6890346,
+      "required": true
+    },
+    {
+      "projectID": 955545,
+      "fileID": 5938142,
       "required": true
     },
     {
@@ -582,7 +607,7 @@
     },
     {
       "projectID": 342466,
-      "fileID": 6873519,
+      "fileID": 6888787,
       "required": true
     },
     {
@@ -593,6 +618,11 @@
     {
       "projectID": 231951,
       "fileID": 6733669,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 6766126,
       "required": true
     },
     {
@@ -637,7 +667,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 6184623,
+      "fileID": 6886923,
       "required": true
     },
     {
@@ -707,7 +737,7 @@
     },
     {
       "projectID": 268567,
-      "fileID": 6486997,
+      "fileID": 6895134,
       "required": true
     },
     {
@@ -932,7 +962,7 @@
     },
     {
       "projectID": 333396,
-      "fileID": 6304658,
+      "fileID": 6891800,
       "required": true
     },
     {
