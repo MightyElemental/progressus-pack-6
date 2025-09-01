@@ -13,4 +13,20 @@ ServerEvents.recipes(event => {
         .duration(15)
         .EUt(2)
 
+    event.recipes.gtceu.macerator('macerate_diamond_horse_armor')
+        .inputItems("1x minecraft:diamond_horse_armor")
+        .outputItems("8x minecraft:diamond", "10x gtceu:diamond_dust")
+        .chancedOutput("2x minecraft:diamond", "1/4", 100)
+        .chancedOutput("2x gtceu:diamond_dust", "1/3", 250)
+        .duration(2000)
+        .EUt(32)
+
+    event.recipes.gtceu.macerator('macerate_golden_horse_armor')
+        .inputItems("1x minecraft:golden_horse_armor")
+        .outputItems("8x minecraft:gold_ingot", "10x gtceu:gold_dust")
+        .chancedOutput("2x minecraft:gold_ingot", "1/4", 100)
+        .chancedOutput("2x gtceu:gold_dust", "1/3", 250)
+        .duration(1500)
+        .EUt(32)
+
 })
