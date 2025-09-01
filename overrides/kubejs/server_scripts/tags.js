@@ -11,4 +11,7 @@ ServerEvents.tags('item', event => {
     event.add("c:tools", "#ae2:knife")
     event.add("c:tools", "ae2:meteorite_compass")
 
+    event.add("c:dusts", "industrialforegoing:dryrubber")
+    event.add("c:dusts/raw_rubber", "industrialforegoing:dryrubber")
+
 })
